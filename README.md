@@ -12,4 +12,6 @@ The pretrained model for alex net is automatically downloaded and loaded in trai
  
  Accuracy:
  
+ ![Accuracy plot][FacialLandmarkRegression/plots/Test Accuracy.png]
+ 
  
